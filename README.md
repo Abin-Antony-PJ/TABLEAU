@@ -39,5 +39,9 @@ This dashboard and presentation are part of my personal data visualization portf
 I'm **Abin Antony P J**, a data science graduate passionate about crafting data-driven narratives that inform and inspire.  
 This repository showcases my ability to turn raw datasets into clear, impactful insights.
 
-**Email**: abinantonypj08@gmail.com  
+**Email**: [abinantonypj08@gmail.com](abinantonypj08@gmail.com)
 **LinkedIn**: [https://www.linkedin.com/in/abin-antony-p-j/](https://www.linkedin.com/in/abin-antony-p-j/)
+
+---
+
+> If you find these projects interesting, feel free to star the repo or get in touch!
