@@ -7,7 +7,7 @@ This repository contains **Tableau-based data storytelling projects** created us
 ## Project: iPhone Sales & Ratings Dashboard
 
 - **Dashboard**: [`iPhone Sales and Rating Dashboard.twbx`](./iPhone%20Sales%20and%20Rating%20Dashboard.twbx)
-- **Presentation**: [`Apple PPT Tableau.pptx`](./Apple%20PPT%20Tableau.pptx)
+- **Presentation**: [`Apple PPT Tableau.pptx`](apple%20ppt%20tableau.pptx)
 - **Focus**:
   - Analyzing Apple iPhone pricing and RAM distribution
   - Identifying star rating patterns and user preferences
