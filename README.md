@@ -64,6 +64,6 @@ I'm **Abin Antony P J**, a business graduate currently pursuing data science, pa
 This project is licensed under the **MIT License**.  
 You are free to learn from and build upon the code with proper attribution. Commercial use or redistribution of project files (including presentation materials) is not permitted without permission.
 
-> See [here](LICENSE) file for full terms.
+> See [license](LICENSE) file for full terms.
 
 ---
