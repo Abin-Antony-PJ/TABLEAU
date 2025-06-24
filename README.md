@@ -20,7 +20,7 @@ This repository contains **Tableau-based data storytelling projects** created us
 
 This project uses the publicly available dataset from Kaggle:
 
-[Credit Card Fraud Detection Dataset — Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+[Apple iPhone Data — Kaggle]([https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud](https://www.kaggle.com/datasets/komalkhetlani/apple-iphone-data))
 
 > **Note**: The dataset is not included in this repository due to redistribution restrictions. Please download it directly from Kaggle to replicate the project.
 
@@ -32,6 +32,15 @@ This dashboard and presentation are part of my personal data visualization portf
 **Do not copy, modify, redistribute, or reuse** these assets without permission.
 
 © 2025 Abin Antony P J. All rights reserved.
+
+---
+
+## For Recruiters & Reviewers
+
+This project reflects my ability to apply data science to solve real-world business problems, structure code clearly, and present insights visually. If you're viewing this as part of a portfolio review, feel free to reach out:
+
+**Email**: [abinantonypj08@gmail.com](mailto:abinantonypj08@gmail.com)  
+**LinkedIn**: [linkedin.com/in/abin-antony-p-j](https://www.linkedin.com/in/abin-antony-p-j/)
 
 ---
 
@@ -48,9 +57,6 @@ This dashboard and presentation are part of my personal data visualization portf
 
 I'm **Abin Antony P J**, a business graduate currently pursuing data science, passionate about transforming raw data into meaningful insights. My core focus is to solve real-world business problems using data-driven solutions through clear and compelling visual storytelling.
 
-**Email**: [abinantonypj08@gmail.com](abinantonypj08@gmail.com)
-**LinkedIn**: [https://www.linkedin.com/in/abin-antony-p-j/](https://www.linkedin.com/in/abin-antony-p-j/)
-
 ---
 
 ## License
@@ -58,6 +64,6 @@ I'm **Abin Antony P J**, a business graduate currently pursuing data science, pa
 This project is licensed under the **MIT License**.  
 You are free to learn from and build upon the code with proper attribution. Commercial use or redistribution of project files (including presentation materials) is not permitted without permission.
 
-> See [LICENSE](LICENSE) file for full terms.
+> See [here](LICENSE) file for full terms.
 
 ---
