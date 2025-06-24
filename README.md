@@ -16,6 +16,16 @@ This repository contains **Tableau-based data storytelling projects** created us
 
 ---
 
+## Dataset Source
+
+This project uses the publicly available dataset from Kaggle:
+
+[🔗 Credit Card Fraud Detection Dataset — Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+
+> **Note**: The dataset is not included in this repository due to redistribution restrictions. Please download it directly from Kaggle to replicate the project.
+
+---
+
 ## Usage Notice
 
 This dashboard and presentation are part of my personal data visualization portfolio.  
@@ -43,4 +53,11 @@ I'm **Abin Antony P J**, a business graduate currently pursuing data science, pa
 
 ---
 
-> If you find these projects interesting, feel free to star the repo or get in touch!
+## License
+
+This project is licensed under the **MIT License**.  
+You are free to learn from and build upon the code with proper attribution. Commercial use or redistribution of project files (including presentation materials) is not permitted without permission.
+
+> See [LICENSE](LICENSE) file for full terms.
+
+---
