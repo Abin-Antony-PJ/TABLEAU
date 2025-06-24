@@ -20,7 +20,7 @@ This repository contains **Tableau-based data storytelling projects** created us
 
 This project uses the publicly available dataset from Kaggle:
 
-[Apple iPhone Data — Kaggle]([https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud](https://www.kaggle.com/datasets/komalkhetlani/apple-iphone-data))
+[Apple iPhone Data — Kaggle](https://www.kaggle.com/datasets/komalkhetlani/apple-iphone-data)
 
 > **Note**: The dataset is not included in this repository due to redistribution restrictions. Please download it directly from Kaggle to replicate the project.
 
