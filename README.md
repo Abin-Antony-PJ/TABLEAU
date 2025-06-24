@@ -12,7 +12,7 @@ This repository contains **Tableau-based data storytelling projects** created us
   - Analyzing Apple iPhone pricing and RAM distribution
   - Identifying star rating patterns and user preferences
   - Correlating RAM, price, and review metrics
-- 🛠️ **Tools Used**: Tableau, Excel, PowerPoint
+- 🛠**Tools Used**: Tableau, Excel, PowerPoint
 
 ---
 
@@ -20,7 +20,7 @@ This repository contains **Tableau-based data storytelling projects** created us
 
 This project uses the publicly available dataset from Kaggle:
 
-[🔗 Credit Card Fraud Detection Dataset — Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+[Credit Card Fraud Detection Dataset — Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 > **Note**: The dataset is not included in this repository due to redistribution restrictions. Please download it directly from Kaggle to replicate the project.
 
