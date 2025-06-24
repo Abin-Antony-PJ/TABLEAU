@@ -12,7 +12,7 @@ This repository contains **Tableau-based data storytelling projects** created us
   - Analyzing Apple iPhone pricing and RAM distribution
   - Identifying star rating patterns and user preferences
   - Correlating RAM, price, and review metrics
-- 🛠**Tools Used**: Tableau, Excel, PowerPoint
+- **Tools Used**: Tableau, Excel, PowerPoint
 
 ---
 
